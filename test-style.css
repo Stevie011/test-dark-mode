@@ -137,3 +137,25 @@ span{
     color: rgb(105, 100, 100);
     /* border-bottom: 2px solid #fff; */
 }
+
+#codeInputPane{
+    background-color: #605861;
+    color: #fff;
+}
+
+#qa_box{
+    background-color: #605861;
+    color: #fff;
+    border: 2 px solid #fff;
+}
+
+#ansarea{
+    background-color: #202023;
+    color: #fff;
+}
+
+#pyStdout{
+    background-color: #605861;
+    color: #fff;
+    height: 30px !important;
+}
