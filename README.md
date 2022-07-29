@@ -1,6 +1,10 @@
 # test-dark-mode
 
+co-author Mustafa Cagri  https://github.com/salvagedscrap
+
 a dark mode extension for firefox using node.js, .json and .css
+
+available for download at https://addons.mozilla.org/en-GB/firefox/addon/anki-dark-mode/
 
 to do :
 
